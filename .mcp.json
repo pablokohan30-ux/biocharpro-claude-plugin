@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "biocharpro": {
+      "type": "http",
+      "url": "https://biocharpro.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${BIOCHARPRO_API_KEY}"
+      },
+      "description": "Biochar Optimizer Pro — multi-methodology biochar project tools (pyrolysis simulation, feedstock comparison, lab PDF extraction)."
+    }
+  }
+}
